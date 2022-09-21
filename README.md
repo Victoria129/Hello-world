@@ -33,3 +33,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+## 📝 License
+
+This project is [MIT](https://github.com/Victoria129/Hello-world/blob/add-license-1/LICENSE.md) licensed.
