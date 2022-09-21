@@ -1,35 +1,35 @@
-Hello Microverse
-The project is about Microverse courses.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Built With
-Javascript, CSS, HTML
+# Hello Microverse
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+> A test project on HTML and CSS
 
-GitHub: @Victoria129
-Twitter: @Tumwebaze129
-LinkedIn: victoria-tumwebaze-01701424a
 
-🤝 Contributing
+## Built With
+
+- HTML and CSS
+
+
+## Authors
+
+👤 **Victoria Tumwebaze**
+
+- GitHub: [@Victoria129](https://github.com/Victoria129)
+- Twitter: [@Tumwebaze129](https://twitter.com/Tumwebaze129)
+- LinkedIn: [victoria-tumwebaze](https://www.linkedin.com/in/victoria-tumwebaze-01701424a)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+## Acknowledgments
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
